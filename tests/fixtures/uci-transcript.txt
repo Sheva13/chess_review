@@ -1,0 +1,12 @@
+id name Stockfish 19
+id author the Stockfish developers (see AUTHORS file)
+uciok
+info string NNUE evaluation using nn-0000000000.nnue
+info depth 1 seldepth 2 multipv 1 score cp 85 nodes 20 nps 20000 hashfull 6 tbhits 0 time 1 pv g2g4
+info depth 12 seldepth 18 multipv 1 score cp 12 nodes 35410 nps 863658 hashfull 17 tbhits 0 time 41 pv f1g1 f8g8 g2g3 b7b5 e2e4 g7g6 c2c3 c7c5 d2d3 h8g7
+info depth 12 seldepth 15 multipv 2 score cp -34 nodes 38112 nps 866181 hashfull 18 tbhits 0 time 44 pv g1f3 d7d5 e2e3
+info depth 18 seldepth 24 multipv 1 score mate 3 nodes 99120 nps 1101333 hashfull 40 tbhits 0 time 90 pv e2e4 e7e5 g1f3
+info depth 9 seldepth 11 multipv 1 score cp 43 nodes 6844 nps 977714 hashfull 7 tbhits 0 time 7 pv g2g3
+info depth 10 currmovenumber 5 currmove g1f3 currmoves 32
+info depth 14 seldepth 20 multipv 1 score cp 55 lowerbound nodes 50000 nps 1000000 time 50 pv d2d4
+bestmove f1g1 ponder f8g8

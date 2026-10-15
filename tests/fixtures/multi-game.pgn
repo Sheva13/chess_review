@@ -1,0 +1,17 @@
+[Event "Game One"]
+[Site "?"]
+[Date "2026.10.13"]
+[White "Alpha"]
+[Black "Beta"]
+[Result "1-0"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 Nf6 4. Qxf7# 1-0
+
+[Event "Game Two"]
+[Site "?"]
+[Date "2026.10.14"]
+[White "Gamma"]
+[Black "Delta"]
+[Result "0-1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 0-1

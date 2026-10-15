@@ -1,0 +1,8 @@
+[Event "Test Special Moves"]
+[Site "?"]
+[Date "2026.10.13"]
+[White "Tester"]
+[Black "Tester"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. d4 exd4 6. Nxd4 Nxd4 7. Qxd4 Nf6 8. Nc3 O-O 9. b4 *
